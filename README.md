@@ -10,9 +10,9 @@ Technologies
 
 File Structure
 digital_portfolio/
-├── index.html           # Main portfolio webpage
-├── my image.jpg         # Your portrait or personal image
-└── my resume.docx       # Your resume document
+----index.html
+----my image.jpg
+----my resume.docx
 
 Installation & Usage
 1. Clone the repository:
